@@ -25,7 +25,7 @@ To modify/run the application you will need to install npm, express, dotenv, mys
 ---
 
 ## Usage
-[Video Demo](#)
+[Video Demo](https://drive.google.com/file/d/1vJufcvMIWHlGZ4wYH0wnG4DvqA4c27T_/view)
 
 ---
 
@@ -56,7 +56,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 |Git Username|Git URL|
 |------------|-----------------------|
-|Name: Module 12| Url: GW website| 
+|Name: Module 13| Url: GW website| 
 |Name: Ben Gallagher| Url: [Bgallag5](https://github.com/Bgallag5)|
 |Name: Spencer Berkebile| Url: [SBerkebile7](https://github.com/SBerkebile7)| 
 |Name: Emily Necciai Mayeski| Url: [EmilyNecciai](https://github.com/EmilyNecciai)|
